@@ -1,7 +1,7 @@
 # Proyecto Minimarket
-##Inventario, carrito de compras
+## Inventario, carrito de compras
 **Bibliotecas usadas: Pandas, ipyWidgets**
-El archivo esta dividido en cinco celdas. 
+### El archivo esta dividido en cinco celdas. 
 1era Celda "Importamos el inventario con Pandas"
 2da Celda  "Funciones básicas del carrito
   *a)Def Buscar productos b) Def Agregar al carrito c)Def quitar del carrito e)Def calcular total d)Def mostrar carrito*
